@@ -1,10 +1,10 @@
-# Exchange Server 2019 - Setup Checklst List
+# Exchange Server 2019 - Setup Checklist
 
 This repository provides an Excel-based Task List
 
 ## Note
 
-The Excel is scheduled to be published in early May.
+The Excel-Checklist is scheduled to be published in early May.
 
 In the meantime you can access the German checklist, published in my blog post. Please see the repository description for the link.
 

@@ -1,16 +1,14 @@
 # Exchange Server 2019 - Setup Checklist
 
-This repository provides an Excel-based Task List
-
-## Note
-
-The English Excel-Checklist is scheduled to be published in late June.
-
-In the meantime you can use ther German Excel-Checklist..
+This repository provides an Excel-based Task List (German)
 
 ## Supporting files
 
 The folder _Registry_ contains supporting files to set required Registry keys for Exchange Server 2019.
+
+## Versions
+
+- 1.1 Requirement for IIS URL Rewriter added
 
 ## Note
 
